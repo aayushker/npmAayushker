@@ -1,0 +1,13 @@
+{
+  "name": "aayushker",
+  "version": "0.1.0",
+  "description": "Personal branding package",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "keywords": ["resume", "portfolio", "about-me"],
+  "author": "Aayushker Singh",
+  "license": "Null"
+}
+
